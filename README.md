@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0066ff,100:00d4ff&height=200&section=header&text=ARTEM%20KUZNETSOV&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Web%20Developer&descSize=17&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0055cc,100:00c6ff&height=210&section=header&text=ARTEM%20KUZNETSOV&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Backend%20Development&descSize=17&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+world!;Unity+Game+Developer;Web+Developer;Turning+ideas+into+reality;Always+learning.+Always+building." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Artem+Kuznetsov;Junior+Python+Developer;Learning+Backend+Development;Building+Real+Projects;Always+Learning+New+Things" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SunRisingX&style=for-the-badge&color=0077ff&label=PROFILE+VIEWS"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SunRisingX&style=for-the-badge&color=0077ff)
 
 </div>
 
@@ -15,110 +15,141 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const developer = {
-  name: "Artem Kuznetsov",
-  username: "SunRisingX",
-  focus: ["Game Development", "Web Development"],
-  technologies: ["Unity", "C#", "JavaScript", "HTML", "CSS"],
-  interests: ["Game Design", "AI", "UI/UX"],
-  motto: "Code. Create. Innovate."
-};
-```
+I'm Artem, an aspiring Python and Backend Developer.
 
-- 🎮 Developing games and interactive experiences with Unity
-- 👻 Creating atmospheric horror gameplay mechanics
-- 🌐 Building modern websites and web applications
-- 🧠 Exploring AI and emerging technologies
-- 🚀 Learning and improving with every project
+I'm currently studying software development and improving my programming skills through practical projects.
+
+I'm interested in backend systems, web technologies, software engineering, and building useful applications.
+
+- 🐍 Focused on Python and Backend Development
+- 🎓 Studying software development at IT.Moscow
+- 💻 Working with Python, JavaScript, and HTML
+- 🐧 Learning Linux and Git
+- 🛠️ Building practical programming projects
+- 🚀 Interested in internships and junior opportunities
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### Languages
+### Programming & Web
 
-<img src="https://skillicons.dev/icons?i=cs,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" alt="Programming languages"/>
 
-### Tools & Engines
+### Development Tools
 
-<img src="https://skillicons.dev/icons?i=unity,vscode,visualstudio,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio&theme=dark" alt="Development tools"/>
+
+### Additional Interests
+
+<img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Game development"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Development Focus
 
-### 🎮 Unity Horror Experience
+| Area | Technologies |
+|------|--------------|
+| Programming | Python, JavaScript |
+| Web Development | HTML, CSS |
+| Version Control | Git, GitHub |
+| Operating Systems | Linux |
+| Development Tools | VS Code, Visual Studio |
+| Additional Interests | Unity, Game Development |
 
-An atmospheric horror game featuring interactive environments, exploration, dynamic lighting, and gameplay mechanics.
+---
 
-**Technologies:** Unity, C#
+## 🚀 Projects & Practice
+
+### 🐍 Python Development
+
+Learning Python through practical programming exercises and small applications.
+
+**Focus:** Python, Programming Fundamentals
 
 ### 🌐 Web Development
 
-Creating responsive websites and interactive web applications with modern user interfaces.
+Developing interactive web applications and experimenting with user interfaces.
 
-**Technologies:** HTML, CSS, JavaScript
+**Stack:** HTML, CSS, JavaScript
 
-### 🤖 AI Experiments
+### 🎮 Game Development
 
-Exploring artificial intelligence tools, automation, and creative development workflows.
+Exploring interactive mechanics and game programming through personal and educational projects.
 
-**Focus:** AI, Automation, Creative Technology
+**Tools:** Unity, C#
 
 ---
 
-## 📊 GitHub Analytics
+## 🎓 Education
+
+**IT.Moscow**
+
+Software Development
+
+Specialization: Information Systems and Programming
+
+**Expected Graduation:** 2029
+
+### 📜 Certificates
+
+- Pygame: Fundamentals of Game Development with Python (2026)
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=SunRisingX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
+<img width="430" src="https://github-readme-stats.vercel.app/api?username=SunRisingX&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
 <br/>
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunRisingX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
+<img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunRisingX&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 <br/>
 
-<img width="420" src="https://streak-stats.demolab.com?user=SunRisingX&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+<img width="430" src="https://streak-stats.demolab.com?user=SunRisingX&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🎯 Development Goals
+## 🎯 Career Goals
 
-- Build polished and immersive games
-- Improve my software engineering skills
-- Master modern web technologies
-- Create a portfolio of real-world projects
-- Explore AI-powered development
-- Collaborate with talented developers
+- Strengthen Python programming skills
+- Learn backend architecture and APIs
+- Improve database knowledge
+- Build and publish real software projects
+- Gain practical development experience
+- Grow into a professional Backend Developer
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
+
+I'm interested in learning, collaboration, and opportunities to gain real-world software development experience.
 
 <div align="center">
-
-Open to collaborations and interesting projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SunRisingX-181717?style=for-the-badge&logo=github)](https://github.com/SunRisingX)
 
+[![Resume](https://img.shields.io/badge/Resume-hh.ru-EA1D2C?style=for-the-badge)](https://hh.ru/resume/f6b75160ff1150c3db0039ed1f6a4c6d597648)
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💙 Code. Create. Innovate.
+### 💙 Code. Learn. Build. Improve.
 
-*Building the future, one line of code at a time.*
+*Every project is another step forward.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0066ff,100:020024&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0055cc,100:020024&height=100&section=footer"/>
 
 </div>
